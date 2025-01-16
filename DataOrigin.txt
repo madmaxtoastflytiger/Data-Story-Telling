@@ -1,0 +1,2 @@
+From kaggle
+https://www.kaggle.com/datasets/kzmontage/sales-from-different-stores

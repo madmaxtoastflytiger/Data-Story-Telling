@@ -1,0 +1,83 @@
+*Initial set up explain 
+
+
+Analysis
+This analysis is based on total profits and it's distribution within a feature.
+This is to see if you can make money 
+
+
+Age group
+Interesting it seems all age groups are relatively equal in spending. 
+Except for 10s but that is because they are mostly the youngest is 18 years old 
+and they don't really have much disposable income to spend.
+
+
+Gender 
+Seems women spend more than men, maybe we can make markets to target them.
+
+
+Category
+Most people seem to be buying clothes and shoes from our physical stores, 
+followed by technology
+and a bit ore are cosmetics and toys (most kids rather play with video games than toys)
+
+Compare against gender it seems equal so no info there. 
+
+
+Payment method
+Interestingly most people pay with cash rather than credit or debit. 
+Though nothing with promotion this may speak the nature of our customers.
+
+Thus I followed up with a stacked bar graph of payment method vs categories and gender
+and also see it is relatively equal so no info there.
+
+
+Region
+It is seen that the West and East Coast makes the most money which makes sense.
+
+To further investigate I want to check which states. California is a huge market 
+while for the east coast are smaller but together make up a good portion
+
+Comparing the state to payment methods and categories it seems both are equally distributed
+
+
+Hour
+Seems no interesting data in Hour.
+
+
+Day of the week
+This gave an interesting pattern as you can see most people spend money in the beginning
+of the work week near Sun and Mon, then lowers and plateaus afterwards.
+This is for both total profit and number of transactions
+
+
+Categories in Price Per Unit
+Clothing makes the most of our money and it seems our customers are big spenders
+as the avg amount they spend on clothes in one checkout is $900. 
+Technology is our 2nd most profitable category and has wide spread range of customers mostly 
+spending one time around $2500 to $4000 in one checkout.
+Shoes is our 3rd most profitable with customers spending an avg of $2000 on checkout.
+The rest are negilible compare to those.
+
+
+Categories in Quantity
+
+Interesting the amount people checkout in each category are all the same 
+mostly around 2 to 4 items. 
+However out of all the purposes the 1st (clothing) and 2nd (technology)
+most profitable categories does have outliers
+
+
+Final Recommendation
+If we are going to do a future promotion then it seems the best is to focus more out efforts 
+on the categories that are most profitable. Originally going to recommend discounts but seeing 
+how customer behavior for clothing, shoes, and computers are mostly 
+buying few expensive items at checkout, that makes our store more in line with luxury store,
+and maybe we should lean into that more in promoting more luxury brands. 
+
+You also have to considered that these customers rather buy these items in a physical store 
+where they can see and touch the item rather than online platforms like Amazon, and honestly 
+maybe online platforms like Amazon are eating our profits for common goods but not luxury goods.
+We could lean more on luxury physical store experience by maybe hiring or reorganizing
+some of the workforce to be something like slaes associates or personal shoppers like you see
+in other luxury stores.
